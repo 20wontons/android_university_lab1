@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NY Times Best Seller</string>
+    <string name="buy_button_text">Buy on Amazon</string>
+    <string name="book_image_alt">Book Cover Image</string>
 </resources>
